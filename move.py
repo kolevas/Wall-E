@@ -122,4 +122,3 @@ if __name__ == '__main__':
         move_forward_distance(speed_set, 10)
     except KeyboardInterrupt:
         destroy()
-

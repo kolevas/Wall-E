@@ -322,4 +322,3 @@ if __name__ == '__main__':
     # scGear.releaseObject()
 
     scGear.moveHand(90)
-
